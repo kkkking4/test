@@ -1,3 +1,4 @@
 testtest
 add 변경사항 인덱스 등록
 commit 인덱스 상태 기록
+pull 원격 저장소 내용 가져오기
